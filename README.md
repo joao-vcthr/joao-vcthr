@@ -12,3 +12,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joao-vcth&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="joao-vcth" /></p>
 
+[![roadmap.sh](https://roadmap.sh/card/tall/65615c285145316d256b1f8f?variant=dark)](https://roadmap.sh)
